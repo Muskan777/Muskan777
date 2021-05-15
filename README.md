@@ -1,9 +1,9 @@
 ## Hi there, I'm Muskan 👋  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muskan777.Muskan777)
-### I'm a Computer Engineering student in TY Btech at College of Engineering, Pune
+### I'm a Computer Engineering student in TY Btech at the College of Engineering, Pune
 
 - 🔭 I’m currently working on Online Election Portal using <b>BlockChain Technology</b>.
-- 🌱 I’m currently learning Operating System and exploring new technologies as well.
-- 👯 I’m looking to collaborate for interesting project ideas on MERN Stack, React Native & Computer Networks.
+- 🌱 I’m currently learning Operating Systems and exploring new technologies as well.
+- 👯 I’m looking to collaborate on interesting project ideas on MERN Stack, React Native & Computer Networks.
 - 📫 Reach me out on [<img alt="Muskan777 | LinkedIn" src="https://img.icons8.com/fluent/30/000000/linkedin.png" />][linkedin]
 [<img alt="Muskan777 | Outlook" src="https://img.icons8.com/color/30/000000/microsoft-outlook-2019--v2.png"/>][outlook]
 [<img alt="Muskan777 | Gmail" src="https://img.icons8.com/fluent/30/000000/gmail-new.png"/>][gmail]
